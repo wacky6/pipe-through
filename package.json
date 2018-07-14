@@ -1,6 +1,6 @@
 {
   "name": "pipe-through",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipe source Thorugh multiple processors",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "engines": {
       "iojs": ">3.0.0",
-      "node": ">4.0.0."
+      "node": ">4.0.0"
   },
   "author": "wacky6",
   "license": "MIT",
